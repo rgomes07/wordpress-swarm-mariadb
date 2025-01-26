@@ -44,6 +44,3 @@ db_data: Armazena os dados do banco de dados MariaDB.
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-
-
-
